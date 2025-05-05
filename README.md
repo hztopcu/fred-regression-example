@@ -68,5 +68,7 @@ python fred_regression_example.py
 
 This project is licensed under the [MIT License](LICENSE).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pxPI1egfDj0O41qAx0nM8LPjG9vDELSt?usp=sharing)
+<a href="https://colab.research.google.com/drive/1pxPI1egfDj0O41qAx0nM8LPjG9vDELSt?usp=sharing" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
 
